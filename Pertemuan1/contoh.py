@@ -1,0 +1,5 @@
+print("==========================")
+print("Nama: Ridho Dwi Satrio")
+print("Kelas: 15.1B.01")
+print("Jurusan: Informatika")
+print("==========================")
