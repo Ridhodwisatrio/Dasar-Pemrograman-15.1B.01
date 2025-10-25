@@ -4,5 +4,5 @@ for i in range(ulang):
   nama = input("Masukan Nim anda: ")
   uts =int(input("Masukan nilai UTS anda: "))
   uas =int(input("Masukan nilai UAS anda: "))
-  print("Nim anda adalah %s nilai UTS anda %i nilai UTS anda %i" % (nama,uts,uas))
+  print("Nim anda adalah %s nilai UTS anda %i nilai UAS anda %i" % (nama,uts,uas))
   print(20*"-")

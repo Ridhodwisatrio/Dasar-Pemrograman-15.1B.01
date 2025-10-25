@@ -27,4 +27,4 @@ mapel = ['matematika', 'fisika', 'kimia']
 
 # iterasi list menggunakan indeks
 for i in range(len(mapel)):
-  print(f"Saya suka {mapel[i]}")
+  print(f"Saya suka {mapel[i+1]}")
